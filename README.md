@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sulav-GitProfile/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sulav-GitProfile/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sulav-GitProfile/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Sulav-GitProfile/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -37,4 +39,8 @@
 | ------- |
 | [0015-3sum](https://github.com/Sulav-GitProfile/Leetcode-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sulav-GitProfile/Leetcode-DSA/tree/master/0016-3sum-closest) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sulav-GitProfile/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
